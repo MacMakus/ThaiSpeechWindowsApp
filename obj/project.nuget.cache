@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0i4lAagCC20sSAs4J7BbHCwbTf2TSCOHaHuoXAhHxMAAadQh43orODoaD7nCFcHMEz0ixcoZJNtqu9JAi8wAg==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\Local\\ThaiSpeechWindowsApp\\ThaiSpeechWindowsApp\\ThaiSpeechWindowsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YK00555\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
